@@ -1,2 +1,1 @@
-#on push pas le venv 
-venv/
+/venv

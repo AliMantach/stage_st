@@ -1,0 +1,51 @@
+Date,Product,Category,Region,Sales,Units,Price,Customer_Age,Customer_Gender,Satisfaction_Rating
+2023-01-15,Laptop,Electronics,North,1200.50,1,1200.50,34,Male,4.5
+2023-01-17,Smartphone,Electronics,South,799.99,2,399.99,28,Female,4.2
+2023-01-20,Headphones,Electronics,East,129.95,3,43.32,45,Male,3.8
+2023-01-22,Tablet,Electronics,West,649.99,1,649.99,52,Female,4.7
+2023-01-25,Monitor,Electronics,North,349.99,2,175.00,33,Male,4.1
+2023-02-03,Coffee Maker,Home,South,89.95,1,89.95,41,Female,4.6
+2023-02-05,Blender,Home,East,59.99,2,30.00,29,Male,3.7
+2023-02-10,Toaster,Home,West,49.95,3,16.65,37,Female,4.3
+2023-02-15,Microwave,Home,North,199.99,1,199.99,44,Male,4.0
+2023-02-20,Vacuum,Home,South,299.95,1,299.95,50,Female,4.8
+2023-03-05,Running Shoes,Clothing,East,129.99,1,129.99,26,Male,4.4
+2023-03-08,Jeans,Clothing,West,79.95,2,39.98,31,Female,3.9
+2023-03-12,T-Shirt,Clothing,North,24.99,5,5.00,22,Male,3.5
+2023-03-15,Dress,Clothing,South,89.99,1,89.99,35,Female,4.2
+2023-03-20,Jacket,Clothing,East,149.95,1,149.95,40,Male,4.6
+2023-04-03,Novel,Books,West,19.99,3,6.66,28,Female,4.1
+2023-04-07,Cookbook,Books,North,35.95,1,35.95,47,Male,4.3
+2023-04-12,Biography,Books,South,29.99,2,15.00,55,Female,4.7
+2023-04-18,Textbook,Books,East,89.95,1,89.95,21,Male,3.4
+2023-04-22,Children's Book,Books,West,14.99,4,3.75,38,Female,4.8
+2023-05-01,Sofa,Furniture,North,899.99,1,899.99,42,Male,4.5
+2023-05-05,Dining Table,Furniture,South,599.95,1,599.95,47,Female,4.2
+2023-05-10,Bed Frame,Furniture,East,499.99,1,499.99,35,Male,4.7
+2023-05-15,Bookshelf,Furniture,West,249.95,2,124.98,29,Female,4.0
+2023-05-20,Desk,Furniture,North,349.99,1,349.99,31,Male,4.3
+2023-06-03,Tennis Racket,Sports,South,159.95,1,159.95,24,Female,4.1
+2023-06-07,Basketball,Sports,East,29.99,2,15.00,19,Male,4.6
+2023-06-12,Yoga Mat,Sports,West,39.95,3,13.32,32,Female,4.4
+2023-06-18,Dumbbells,Sports,North,79.99,1,79.99,27,Male,4.2
+2023-06-25,Bicycle,Sports,South,499.95,1,499.95,36,Female,4.9
+2023-07-01,Laptop,Electronics,East,1299.99,1,1299.99,38,Male,4.3
+2023-07-05,Smartphone,Electronics,West,899.99,1,899.99,25,Female,4.0
+2023-07-10,Headphones,Electronics,North,149.95,2,74.98,43,Male,4.5
+2023-07-15,Tablet,Electronics,South,549.99,1,549.99,51,Female,4.7
+2023-07-20,Monitor,Electronics,East,399.99,1,399.99,30,Male,3.9
+2023-08-03,Coffee Maker,Home,West,99.95,2,49.98,39,Female,4.4
+2023-08-08,Blender,Home,North,69.99,1,69.99,28,Male,4.2
+2023-08-13,Toaster,Home,South,59.95,2,29.98,35,Female,3.8
+2023-08-18,Microwave,Home,East,219.99,1,219.99,46,Male,4.1
+2023-08-23,Vacuum,Home,West,349.95,1,349.95,53,Female,4.8
+2023-09-05,Running Shoes,Clothing,North,139.99,1,139.99,25,Male,4.3
+2023-09-10,Jeans,Clothing,South,89.95,3,29.98,33,Female,4.0
+2023-09-15,T-Shirt,Clothing,East,29.99,4,7.50,20,Male,3.7
+2023-09-20,Dress,Clothing,West,99.99,1,99.99,37,Female,4.4
+2023-09-25,Jacket,Clothing,North,179.95,1,179.95,41,Male,4.6
+2023-10-03,Novel,Books,South,24.99,2,12.50,29,Female,4.2
+2023-10-08,Cookbook,Books,East,39.95,1,39.95,45,Male,4.5
+2023-10-13,Biography,Books,West,34.99,1,34.99,56,Female,4.8
+2023-10-18,Textbook,Books,North,99.95,1,99.95,22,Male,3.5
+2023-10-23,Children's Book,Books,South,17.99,3,6.00,40,Female,4.7

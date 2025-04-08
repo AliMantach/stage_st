@@ -1,7 +1,9 @@
 import streamlit as st
 from src.logic.covid_logic import get_covid_stats
 
-st.title("🦠 COVID-19 Stats")
+st.title("COVID-19 Stats")
+st.markdown("Upload your CSV file to analyze and visualize the data")
+st.markdown("Search for covid stats")
 
 country = st.text_input("Enter a country name", "Germany")
 
@@ -13,3 +15,6 @@ if country:
         st.metric("Recovered", f"{stats['recovered']:,}")
     else:
         st.error("Could not fetch COVID data.")
+
+
+
